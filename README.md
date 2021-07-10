@@ -55,7 +55,7 @@ Tips:
 - Use CSS to make the image smaller if you need to.
 - Keep the list short, to about 3-4 items. If you pick something that causes you to have a long list, pick a few notable ones.
 - Don't get too caught up in specifics. It's more important to see your code was done correctly than having accurate information.
-- Refer to the [student book](https://book.techelevator.com/v2_3/content/intro-html-css.html) for examples of HTML and CSS.
+- Refer to examples of HTML and CSS.
 
 ### Information form requirements
 
@@ -78,18 +78,4 @@ Tips:
   - Set a different background color on the form.
   - Add spacing between form inputs.
 
-Tips:
-- Refer to the [student book](https://book.techelevator.com/v2_3/content/intro-html-css.html#forms) for information on HTML forms.
-
-## Example fan page
-
-Your fan page doesn't have to look exactly like this example, but hopefully it gives you some direction.
-
-![Fan Page Example](./img/fanpage-example.png)
-
-## Example information form
-
-You may choose different text and colors as long as you satisfy the requirements.
-
-![Information Form Example](./img/infoform-example.png)
 
