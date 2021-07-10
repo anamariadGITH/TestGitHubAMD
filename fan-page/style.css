@@ -1,0 +1,58 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(215, 237, 245);
+    color: darkblue;
+}
+h1{
+    background-color: lightsteelblue;
+    color:indigo;
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+
+}
+h3{
+    text-decoration: underline;
+
+}
+p{
+    font-style: italic;
+    font-size: medium;
+
+}
+img{
+    alt: "Official Site Of The Queen of Soul -Aretha Franklin";
+    display: block;
+    border-radius: 10%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+
+}
+thead{
+    
+    text-decoration-style: double;
+    line-height: 200%;
+    
+}
+#table1{
+    text-align:left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.firstParagraph{
+    font-style:normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(215, 237, 245);
+    color: darkblue;
+    margin-bottom: 3%;
+}
+.category1{
+    padding: 5px;
+}
